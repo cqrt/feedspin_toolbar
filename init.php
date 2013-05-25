@@ -22,7 +22,7 @@ class article_toolbar_cqrt extends Plugin {
 	}
 
 	function HOOK_TOOLBAR_BUTTON() {
-		require_once dirname(__FILE__) . "/toolbar_body.php";
+		require_once dirname(__FILE__) . "/toolbar.php";
 	}
 	
 	function api_version() {
