@@ -1,5 +1,5 @@
 <?php
-class article_toolbar_cqrt extends Plugin {
+class feedspin_toolbar extends Plugin {
 
   private $link;
 	private $host;
