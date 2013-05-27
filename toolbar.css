@@ -292,7 +292,7 @@ li a:active:before {
 
 .arrow-alt.up a:before,
 .arrow-alt.down a:before {
-    left:1px;
+    left:0px;
     margin-top:-8px;
     border-width:0 7px 8px;
     border-color:#c55500 transparent;
