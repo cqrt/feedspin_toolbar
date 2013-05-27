@@ -192,6 +192,19 @@ li a:active:before {
     transform:rotate(45deg);
 }
 
+.success a:hover:before,
+.success a:focus:before,
+.success a:active:before {
+    border-color:#730800;
+    background:transparent;
+}
+
+.success a:hover:after,
+.success a:focus:after,
+.success a:active:after {
+    border-left-color:#730800;
+}
+
 .repeat a:before {
     left:1px;
     width:9px;
