@@ -115,6 +115,7 @@ li a:active:before {
 .container {
 	display: inline;
 	padding-right: 15px;
+	cursor: pointer;
 }
 
 .rss a:before {
