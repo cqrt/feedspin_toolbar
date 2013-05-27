@@ -108,6 +108,10 @@ li a:active:before {
     background:#730800;
 }
 
+.container {
+	display: inline;
+}
+
 .rss_container {
 	padding-top: 5px;
 }
