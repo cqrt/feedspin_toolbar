@@ -3,7 +3,7 @@
   echo stylesheet_tag("/plugins/feedspin_toolbar/toolbar.css");
 	print_user_stylesheet($link)
 ?>
-<li class="rss"><a title="Subscribe" onclick="quickMenuGo('qmcAddFeed')"></a></li>
+div class="rss_container"><li class="rss"><a title="Subscribe" onclick="quickMenuGo('qmcAddFeed')"></a></li></div>
 <li class="list"><a title="Toggle" onclick="toggle_cdm_expanded()"></a></li>
 <li class="update"><a title="Mark" onclick="catchupCurrentFeed()"></a></li>
 <li class="repeat"><a title="Refresh" onclick="viewCurrentFeed()"></a></li>
