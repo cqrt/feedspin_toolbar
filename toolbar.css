@@ -221,7 +221,7 @@ li a:active:before {
     left:1px;
     width:9px;
     height:9px;
-    border:3px solid #c55500;
+    border:2px solid #c55500;
     margin-top:-6px;
     background:transparent;
     /* css3 */
@@ -233,7 +233,7 @@ li a:active:before {
 .repeat a:after {
     left:9px;
     border:4px solid #E6E6E6;
-    border-width:5px 2px 5px 5px;
+    border-width:4px 2px 5px 5px;
     border-left-color:#c55500;
     margin:-9px 0 0;
     background:transparent;
