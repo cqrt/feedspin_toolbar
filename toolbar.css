@@ -108,6 +108,10 @@ li a:active:before {
     background:#730800;
 }
 
+#feedspin_toolbar {
+	display: inline;
+}
+
 .container {
 	display: inline;
 }
