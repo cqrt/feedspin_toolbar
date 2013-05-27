@@ -208,3 +208,38 @@ li a:active:before {
     -o-transform:rotate(45deg);
     transform:rotate(45deg);
 }
+
+.repeat a:before {
+    left:1px;
+    width:9px;
+    height:9px;
+    border:3px solid #c55500;
+    margin-top:-6px;
+    background:transparent;
+    /* css3 */
+    -webkit-border-radius:16px;
+    -moz-border-radius:16px;
+    border-radius:16px;
+}
+
+.repeat a:after {
+    left:9px;
+    border:4px solid #fff;
+    border-width:5px 2px 5px 5px;
+    border-left-color:#c55500;
+    margin:-9px 0 0;
+    background:transparent;
+}
+
+.repeat a:hover:before,
+.repeat a:focus:before,
+.repeat a:active:before {
+    border-color:#730800;
+    background:transparent;
+}
+
+.repeat a:hover:after,
+.repeat a:focus:after,
+.repeat a:active:after {
+    border-left-color:#730800;
+}
