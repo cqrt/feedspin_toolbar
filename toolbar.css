@@ -120,7 +120,7 @@ li a:active:before {
     left:3px;
     width:5px;
     height:5px;
-    margin-top:0;
+    margin-top:3px;
     /* css3 */
     -webkit-border-radius:5px;
     -moz-border-radius:5px;
@@ -130,7 +130,7 @@ li a:active:before {
 .rss a:after {
     left:3px;
     width:8px;
-    height:8px;
+    height:9px;
     border-width:5px 5px 0 0;
     border-style:double;
     border-color:#c55500;
