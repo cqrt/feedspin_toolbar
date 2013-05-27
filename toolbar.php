@@ -4,9 +4,10 @@
 	print_user_stylesheet($link)
 ?>
 <ul>
-<li class="rss"><a title="Subscribe" onclick="quickMenuGo('qmcAddFeed')"></a></li>
-<button class="button_nav" title="Toggle" onclick="toggle_cdm_expanded()"></button>
-<button class="button_nav" title="Mark" onclick="catchupCurrentFeed()"></button>
-<button class="button_nav" title="Refresh" onclick="viewCurrentFeed()"></button>
-<button class="button_nav" title="Previous" onclick="moveToPost('prev',true)"></button>
-<button class="button_nav" title="Next" onclick="moveToPost('next',true)"></button>
+<li class="rss"><a title="Subscribe" onclick="quickMenuGo('qmcAddFeed')">S</a></li>
+<li class="toggle"><a title="Toggle" onclick="toggle_cdm_expanded()">T</a></li>
+<li class="mark"><a title="Mark" onclick="catchupCurrentFeed()">M</a></li>
+<li class="refresh"><a title="Refresh" onclick="viewCurrentFeed()">R</a></li>
+<li class="previous"><a title="Previous" onclick="moveToPost('prev',true)">P</a></li>
+<li class="next"><a title="Next" onclick="moveToPost('next',true)">N</a></li>
+</ul>
