@@ -309,7 +309,7 @@ li a:active:before {
 .arrow-alt.down a:before {
     left:0px;
     margin-top:0;
-    border-width:8px 7px 0;
+    border-width:7px 6px 0;
 }
 
 .arrow-alt.down a:after {
