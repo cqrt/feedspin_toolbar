@@ -108,6 +108,9 @@ li a:active:before {
     background:#730800;
 }
 
+.container {
+	display: inline;
+}
 
 .rss a:before {
     left:3px;
