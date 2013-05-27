@@ -108,23 +108,6 @@ li a:active:before {
     background:#730800;
 }
 
-/* Not links */
-
-.player,
-.headphones,
-.ribbon,
-.views,
-.location,
-.info,
-.help,
-.pie,
-.success,
-.success-alt,
-.warning,
-.denied {
-    padding-left:28px;
-}
-
 .rss a:before {
     left:3px;
     width:5px;
