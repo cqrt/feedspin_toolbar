@@ -307,7 +307,7 @@ li a:active:before {
 }
 
 .arrow-alt.down a:before {
-    left:1px;
+    left:0px;
     margin-top:0;
     border-width:8px 7px 0;
 }
