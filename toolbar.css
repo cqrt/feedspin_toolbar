@@ -58,8 +58,6 @@ div#toolbar .button_nav[title~="Next"]{
 div.actionChooser ul {
     padding:0;
     margin:0;
-    position: absolute;
-    float: left;
 }
 
 li {
