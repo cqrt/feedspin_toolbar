@@ -66,7 +66,9 @@ li {
     overflow:hidden;
     list-style:none;
     padding:0;
+    padding-right: 35px;
     margin:0 0 0.25em;
+    display: inline;
 }
 
 li a:link,
@@ -189,7 +191,7 @@ li a:active:before {
     -webkit-border-radius:16px;
     -moz-border-radius:16px;
     border-radius:16px;
-    background:#7F913C;
+    background:#c55500;
 }
 
 .success a:after {
