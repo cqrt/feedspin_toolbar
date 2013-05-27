@@ -301,7 +301,7 @@ li a:active:before {
 .arrow-alt.up a:after,
 .arrow-alt.down a:after {
     left:5px;
-    width:6px;
+    width:3px;
     height:8px;
     margin-top:0;
 }
