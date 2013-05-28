@@ -1,6 +1,6 @@
 <?php global $link; ?>
 <?php
-  echo stylesheet_tag("/plugins/feedspin_toolbar/toolbar.css");
+  echo stylesheet_tag("plugins/feedspin_toolbar/toolbar.css");
 	print_user_stylesheet($link)
 ?>
 <div id="feedspin_toolbar">
