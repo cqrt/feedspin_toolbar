@@ -19,7 +19,7 @@ div.actionChooser ul {
 li a:hover,
 li a:focus,
 li a:active {
-    color:#4D4D4D;
+    color:#595959;
     background:transparent;
 }
 
@@ -36,13 +36,13 @@ li a:after {
 li a:before,
 li a:after {
     margin:-6px 0 0;
-    background:#666666;
+    background:#808080;
 }
 
 li a:hover:before,
 li a:focus:before,
 li a:active:before {
-    background:#4D4D4D;
+    background:#595959;
 }
 
 #feedspin_toolbar {
@@ -72,7 +72,7 @@ li a:active:before {
     height:9px;
     border-width:5px 5px 0 0;
     border-style:double;
-    border-color:#666666;
+    border-color:#808080;
     background:transparent;
     /* css3 */
     -webkit-border-top-right-radius:25px;
@@ -83,7 +83,7 @@ li a:active:before {
 .rss a:hover:after,
 .rss a:focus:after,
 .rss a:active:after {
-    border-color:#4D4D4D;
+    border-color:#595959;
 }
 
 .list a:before,
@@ -93,7 +93,7 @@ li a:active:before {
     height:2px;
     border-width:6px 0;
     border-style:double;
-    border-color:#666666;
+    border-color:#808080;
     background:transparent;
 }
 
@@ -108,7 +108,7 @@ li a:active:before {
 .list a:hover:after,
 .list a:focus:after,
 .list a:active:after {
-    border-color:#4D4D4D;
+    border-color:#595959;
     background:transparent;
 }
 
@@ -116,7 +116,7 @@ li a:active:before {
     left:10px;
     border-width:2px 0 2px 2px;
     border-style:solid;
-    border-color:transparent #666666;
+    border-color:transparent #808080;
     margin-top:-1px;
 }
 
@@ -124,7 +124,7 @@ li a:active:before {
     left:4px;
     width:10px;
     height:10px;
-    border:2px solid #666666;
+    border:2px solid #808080;
     margin-top:-6px;
     background:transparent;
     /* css3 */
@@ -148,27 +148,27 @@ li a:active:before {
 }
 
 .update:hover:before {
-    border-left-color:#4D4D4D;
+    border-left-color:#595959;
 }
 
 .update a:hover:before,
 .update a:focus:before,
 .update a:active:before {
-    border-color:#4D4D4D;
+    border-color:#595959;
     background:transparent;
 }
 
 .update a:hover:after,
 .update a:focus:after,
 .update a:active:after {
-    background:#4D4D4D;
+    background:#595959;
 }
 
 .repeat a:before {
     left:1px;
     width:9px;
     height:9px;
-    border:2px solid #666666;
+    border:2px solid #808080;
     margin-top:-5px;
     background:transparent;
     /* css3 */
@@ -181,7 +181,7 @@ li a:active:before {
     left:9px;
     border:4px solid #E6E6E6;
     border-width:4px 2px 5px 5px;
-    border-left-color:#666666;
+    border-left-color:#808080;
     margin:-8px 0 0;
     background:transparent;
 }
@@ -189,21 +189,21 @@ li a:active:before {
 .repeat a:hover:before,
 .repeat a:focus:before,
 .repeat a:active:before {
-    border-color:#4D4D4D;
+    border-color:#595959;
     background:transparent;
 }
 
 .repeat a:hover:after,
 .repeat a:focus:after,
 .repeat a:active:after {
-    border-left-color:#4D4D4D;
+    border-left-color:#595959;
 }
 
 .arrow-alt a:before {
     left:8px;
     border-width:7px 0 7px 8px;
     border-style:solid;
-    border-color:transparent #666666;
+    border-color:transparent #808080;
     margin-top:-7px;
     background:transparent;
 }
@@ -213,20 +213,20 @@ li a:active:before {
     width:8px;
     height:6px;
     margin-top:-3px;
-    background:#666666;
+    background:#808080;
 }
 
 .arrow-alt a:hover:before,
 .arrow-alt a:focus:before,
 .arrow-alt a:active:before {
-    border-color:transparent #4D4D4D;
+    border-color:transparent #595959;
     background:transparent;
 }
 
 .arrow-alt a:hover:after,
 .arrow-alt a:focus:after,
 .arrow-alt a:active:after {
-    background:#4D4D4D;
+    background:#595959;
 }
 
 .arrow-alt.up a:before,
@@ -234,7 +234,7 @@ li a:active:before {
     left:0px;
     margin-top:-7px;
     border-width:0 6px 7px;
-    border-color:#666666 transparent;
+    border-color:#808080 transparent;
 }
 
 .arrow-alt.up a:after,
@@ -261,5 +261,5 @@ li a:active:before {
 .arrow-alt.down a:hover:before,
 .arrow-alt.down a:focus:before,
 .arrow-alt.down a:active:before {
-    border-color:#4D4D4D transparent;
+    border-color:#595959 transparent;
 }
